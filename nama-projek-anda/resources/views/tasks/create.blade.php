@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="d-flex justify-content-between align-items-center mb-3">
-    <h3>Tambah Tugasan Baru Dulu</h3>
+    <h3>Tambah Tugasan Baru</h3>
     <a href="{{ route('tasks.index') }}" class="btn btn-secondary">
         <i class="bi bi-arrow-left"></i> Kembali
     </a>
